@@ -1,7 +1,7 @@
 <?php
 set_time_limit(1000);
-if (isset($_POST['Target_phone_number'])) {
-	$target = $_POST['Target_phone_number'];
+if (isset($_GET['number'])) {
+	$target = $_GET['number'];
 	echo "<center><h1> Attack Started... </center></h1>";
 	echo ""
 	echo "<center><h2>
