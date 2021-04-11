@@ -1,3 +1,5 @@
 # sms_bomber
-- 
-- فایل رو در هاست آپلود کنید و شماره تلفن تارگت رو با ورودی number و متود GET بهش بدید.
+
+- Usage :
+host.com/index.php?number=target
+- Coded by Dr.ph03nix
