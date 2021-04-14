@@ -1,5 +1,4 @@
 # sms_bomber
 
-- Usage :
-host.com/index.php?number=target
+- free plan license : PH03N1X
 - Coded by Dr.ph03nix
